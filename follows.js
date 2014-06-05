@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'v59KdfrN3O4wL8uvaSZFvUV7CG93cQm2pDkSOjGn4UKWtUOa', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [-9Pm6-CD0yHMN8FvTpzD], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= 'jqNzTTSigVixLgQ5Drj8fij88SzxDUd9YrcqL6sBRzZIiMpP', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [227482749], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'ConBath', // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
